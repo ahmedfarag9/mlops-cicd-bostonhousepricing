@@ -2,7 +2,6 @@ Flask
 scikit-learn
 seaborn
 ipykernel
-sklearn
 pandas
 matplotlib
 gunicorn
