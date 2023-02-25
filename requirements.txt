@@ -5,3 +5,4 @@ ipykernel
 sklearn
 pandas
 matplotlib
+gunicorn
